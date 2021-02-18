@@ -1,0 +1,13 @@
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\bin\Debug\netcoreapp3.1\programaBancario.exe
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\bin\Debug\netcoreapp3.1\programaBancario.deps.json
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\bin\Debug\netcoreapp3.1\programaBancario.runtimeconfig.json
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\bin\Debug\netcoreapp3.1\programaBancario.runtimeconfig.dev.json
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\bin\Debug\netcoreapp3.1\programaBancario.dll
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\bin\Debug\netcoreapp3.1\programaBancario.pdb
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\obj\Debug\netcoreapp3.1\programaBancario.csprojAssemblyReference.cache
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\obj\Debug\netcoreapp3.1\programaBancario.AssemblyInfoInputs.cache
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\obj\Debug\netcoreapp3.1\programaBancario.AssemblyInfo.cs
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\obj\Debug\netcoreapp3.1\programaBancario.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\obj\Debug\netcoreapp3.1\programaBancario.dll
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\obj\Debug\netcoreapp3.1\programaBancario.pdb
+C:\Users\Rafael Rocha\Desktop\programaBancario\programaBancario\obj\Debug\netcoreapp3.1\programaBancario.genruntimeconfig.cache
