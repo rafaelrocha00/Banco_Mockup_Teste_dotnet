@@ -20,7 +20,7 @@ namespace programaBancario
          double saldo = int.Parse(Console.ReadLine());
 
          Console.WriteLine();
-         Console.WriteLine("Digite credito: ");
+         Console.WriteLine("Digite crédito: ");
 
          double credito = int.Parse(Console.ReadLine());
 
@@ -42,6 +42,8 @@ namespace programaBancario
          int indexConta = int.Parse(Console.ReadLine());
          if(indexConta >= contas.Count || indexConta < 0){
              Console.WriteLine("Valor invalido, cancelando operação");
+             Console.WriteLine();
+
              return;
          }
 
@@ -62,6 +64,8 @@ namespace programaBancario
          int indexConta = int.Parse(Console.ReadLine());
          if(indexConta >= contas.Count || indexConta < 0){
             Console.WriteLine("Valor invalido, cancelando operação");
+            Console.WriteLine();
+
             return;
          }
 
@@ -105,6 +109,11 @@ namespace programaBancario
 
         public void ListarTodasAsContas()
         {
+            if(contas.Count <= 0){
+                Console.WriteLine("Não há contas.");
+                Console.WriteLine();
+                return;
+            }
            for(int i = 0; i < contas.Count; i++)
            {
             Console.WriteLine($"#{i} " + contas[i].ToString());
